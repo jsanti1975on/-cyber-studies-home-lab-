@@ -1,2 +1,4 @@
 # cyber-studies-home-lab
-"A comprehensive guide and setup for building a Cyber-Studies Home Lab aka 'Cyber-Range'"
+"This repository will show my development process in the architechture of a 'Cyber-Range'"
+# youtube link below
+"https://youtu.be/UZyEM1CibCY?list=PLgm9d0P3dhO0NqhCAn28AHyL8c4kvWog2"
